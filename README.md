@@ -1,5 +1,8 @@
 # Consulta_SQL_SSMS
-Consultas Usando SubQueries
+
+-- Nesse projeto realizei algumas Consultas para criar indicadores interessantes a serem analisados. <br>
+-- Fiz uso de clausula como JOiN, GROUP BY, ORDER BY e WHERE que proporcionam analises mais assertivas. <br>
+-- Como também fiz uso de Subqueries que me ajudam a realizar as consultas em varias etapas dando maior poder de manipulação dos dados. <br>
 
 **Indicativo de Metas dos Colaboradores Empresa X** <br>
 
