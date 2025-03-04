@@ -3,7 +3,7 @@ Consultas Usando SubQueries
 
 **Indicativo de Metas dos Colaboradores Empresa X** <br>
 
-**Esquema Relacional** <br>
+Aparti do Esquema de relacionamento abaixo <br>
 <img src="https://github.com/matheus-oliveir4/Consulta_SQL_SSMS/blob/main/Esquema_Realacional.PNG" alt=" esquemas" width = 800px> <br>
 
 **Consulta**
