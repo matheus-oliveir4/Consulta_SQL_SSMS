@@ -51,3 +51,5 @@ Consultas Usando SubQueries
 
 Resultados <br>
 
+<img src="https://github.com/matheus-oliveir4/Consulta_SQL_SSMS/blob/main/Resultado01.PNG" alt="Resultado" width = 800px> <br>
+
